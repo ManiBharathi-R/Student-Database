@@ -1,0 +1,25 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "First test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManiBharathi-R/Student-Database.git"
+  },
+  "author": "Mani Bharathi R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManiBharathi-R/Student-Database/issues"
+  },
+  "homepage": "https://github.com/ManiBharathi-R/Student-Database#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0",
+    "nodemon": "^3.1.10"
+  }
+}
